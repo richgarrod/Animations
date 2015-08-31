@@ -13,6 +13,22 @@
 		180ECF6F1B8657F0008AF3B2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF6E1B8657F0008AF3B2 /* Images.xcassets */; };
 		180ECF721B8657F0008AF3B2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF701B8657F0008AF3B2 /* LaunchScreen.xib */; };
 		180ECF7E1B8657F0008AF3B2 /* AnimationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180ECF7D1B8657F0008AF3B2 /* AnimationsTests.swift */; };
+		180ECF981B8659D9008AF3B2 /* llama1.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF881B8659D9008AF3B2 /* llama1.png */; };
+		180ECF991B8659D9008AF3B2 /* llama2.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF891B8659D9008AF3B2 /* llama2.png */; };
+		180ECF9A1B8659D9008AF3B2 /* llama3.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF8A1B8659D9008AF3B2 /* llama3.png */; };
+		180ECF9B1B8659D9008AF3B2 /* llama4.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF8B1B8659D9008AF3B2 /* llama4.png */; };
+		180ECF9C1B8659D9008AF3B2 /* llama5.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF8C1B8659D9008AF3B2 /* llama5.png */; };
+		180ECF9D1B8659D9008AF3B2 /* llama6.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF8D1B8659D9008AF3B2 /* llama6.png */; };
+		180ECF9E1B8659D9008AF3B2 /* llama7.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF8E1B8659D9008AF3B2 /* llama7.png */; };
+		180ECF9F1B8659D9008AF3B2 /* llama8.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF8F1B8659D9008AF3B2 /* llama8.png */; };
+		180ECFA01B8659D9008AF3B2 /* llama9.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF901B8659D9008AF3B2 /* llama9.png */; };
+		180ECFA11B8659D9008AF3B2 /* llama10.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF911B8659D9008AF3B2 /* llama10.png */; };
+		180ECFA21B8659D9008AF3B2 /* llama11.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF921B8659D9008AF3B2 /* llama11.png */; };
+		180ECFA31B8659D9008AF3B2 /* llama12.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF931B8659D9008AF3B2 /* llama12.png */; };
+		180ECFA41B8659D9008AF3B2 /* llama13.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF941B8659D9008AF3B2 /* llama13.png */; };
+		180ECFA51B8659D9008AF3B2 /* llama14.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF951B8659D9008AF3B2 /* llama14.png */; };
+		180ECFA61B8659D9008AF3B2 /* llama15.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF961B8659D9008AF3B2 /* llama15.png */; };
+		180ECFA71B8659D9008AF3B2 /* llama16.png in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF971B8659D9008AF3B2 /* llama16.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +52,22 @@
 		180ECF771B8657F0008AF3B2 /* AnimationsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		180ECF7C1B8657F0008AF3B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		180ECF7D1B8657F0008AF3B2 /* AnimationsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsTests.swift; sourceTree = "<group>"; };
+		180ECF881B8659D9008AF3B2 /* llama1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama1.png; sourceTree = "<group>"; };
+		180ECF891B8659D9008AF3B2 /* llama2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama2.png; sourceTree = "<group>"; };
+		180ECF8A1B8659D9008AF3B2 /* llama3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama3.png; sourceTree = "<group>"; };
+		180ECF8B1B8659D9008AF3B2 /* llama4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama4.png; sourceTree = "<group>"; };
+		180ECF8C1B8659D9008AF3B2 /* llama5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama5.png; sourceTree = "<group>"; };
+		180ECF8D1B8659D9008AF3B2 /* llama6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama6.png; sourceTree = "<group>"; };
+		180ECF8E1B8659D9008AF3B2 /* llama7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama7.png; sourceTree = "<group>"; };
+		180ECF8F1B8659D9008AF3B2 /* llama8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama8.png; sourceTree = "<group>"; };
+		180ECF901B8659D9008AF3B2 /* llama9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama9.png; sourceTree = "<group>"; };
+		180ECF911B8659D9008AF3B2 /* llama10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama10.png; sourceTree = "<group>"; };
+		180ECF921B8659D9008AF3B2 /* llama11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama11.png; sourceTree = "<group>"; };
+		180ECF931B8659D9008AF3B2 /* llama12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama12.png; sourceTree = "<group>"; };
+		180ECF941B8659D9008AF3B2 /* llama13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama13.png; sourceTree = "<group>"; };
+		180ECF951B8659D9008AF3B2 /* llama14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama14.png; sourceTree = "<group>"; };
+		180ECF961B8659D9008AF3B2 /* llama15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama15.png; sourceTree = "<group>"; };
+		180ECF971B8659D9008AF3B2 /* llama16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = llama16.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +109,7 @@
 		180ECF641B8657F0008AF3B2 /* Animations */ = {
 			isa = PBXGroup;
 			children = (
+				180ECF871B8659C3008AF3B2 /* Images */,
 				180ECF671B8657F0008AF3B2 /* AppDelegate.swift */,
 				180ECF691B8657F0008AF3B2 /* ViewController.swift */,
 				180ECF6B1B8657F0008AF3B2 /* Main.storyboard */,
@@ -110,6 +143,29 @@
 				180ECF7C1B8657F0008AF3B2 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		180ECF871B8659C3008AF3B2 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				180ECF881B8659D9008AF3B2 /* llama1.png */,
+				180ECF891B8659D9008AF3B2 /* llama2.png */,
+				180ECF8A1B8659D9008AF3B2 /* llama3.png */,
+				180ECF8B1B8659D9008AF3B2 /* llama4.png */,
+				180ECF8C1B8659D9008AF3B2 /* llama5.png */,
+				180ECF8D1B8659D9008AF3B2 /* llama6.png */,
+				180ECF8E1B8659D9008AF3B2 /* llama7.png */,
+				180ECF8F1B8659D9008AF3B2 /* llama8.png */,
+				180ECF901B8659D9008AF3B2 /* llama9.png */,
+				180ECF911B8659D9008AF3B2 /* llama10.png */,
+				180ECF921B8659D9008AF3B2 /* llama11.png */,
+				180ECF931B8659D9008AF3B2 /* llama12.png */,
+				180ECF941B8659D9008AF3B2 /* llama13.png */,
+				180ECF951B8659D9008AF3B2 /* llama14.png */,
+				180ECF961B8659D9008AF3B2 /* llama15.png */,
+				180ECF971B8659D9008AF3B2 /* llama16.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,8 +248,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				180ECFA31B8659D9008AF3B2 /* llama12.png in Resources */,
 				180ECF6D1B8657F0008AF3B2 /* Main.storyboard in Resources */,
+				180ECFA21B8659D9008AF3B2 /* llama11.png in Resources */,
+				180ECFA01B8659D9008AF3B2 /* llama9.png in Resources */,
+				180ECF9C1B8659D9008AF3B2 /* llama5.png in Resources */,
+				180ECFA71B8659D9008AF3B2 /* llama16.png in Resources */,
+				180ECF9B1B8659D9008AF3B2 /* llama4.png in Resources */,
+				180ECF9F1B8659D9008AF3B2 /* llama8.png in Resources */,
+				180ECFA11B8659D9008AF3B2 /* llama10.png in Resources */,
+				180ECF9A1B8659D9008AF3B2 /* llama3.png in Resources */,
+				180ECFA61B8659D9008AF3B2 /* llama15.png in Resources */,
+				180ECFA41B8659D9008AF3B2 /* llama13.png in Resources */,
+				180ECF981B8659D9008AF3B2 /* llama1.png in Resources */,
+				180ECF991B8659D9008AF3B2 /* llama2.png in Resources */,
 				180ECF721B8657F0008AF3B2 /* LaunchScreen.xib in Resources */,
+				180ECF9E1B8659D9008AF3B2 /* llama7.png in Resources */,
+				180ECFA51B8659D9008AF3B2 /* llama14.png in Resources */,
+				180ECF9D1B8659D9008AF3B2 /* llama6.png in Resources */,
 				180ECF6F1B8657F0008AF3B2 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
